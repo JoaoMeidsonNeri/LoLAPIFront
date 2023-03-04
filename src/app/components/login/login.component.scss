@@ -1,0 +1,26 @@
+.card {
+  width: 380px;
+  height: 300px;
+
+  margin: 5rem;
+}
+
+.card-header {
+  padding: 1rem;
+  font-size: large;
+}
+
+.card-content {
+  display: flex;
+  flex-flow: column;
+}
+
+.form-buttons {
+  padding: 0 1rem;
+  display: flex;
+  justify-content: flex-end;
+}
+
+.form-button {
+  margin-right: 1rem;
+}
